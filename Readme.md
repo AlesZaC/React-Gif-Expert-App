@@ -1,2 +1,2 @@
 --primera app 
---Aplicacion en React Buscador de IMAGENES consumiendo la Api de GIPHY
+-- Pequeña Aplicacion en React Buscador de IMAGENES consumiendo la Api de GIPHY
