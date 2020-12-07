@@ -26,7 +26,7 @@ React - Javascript
 
 
 ### VIZUALIZACION
-![React](https://aleszac.github.io/React-Gif-Expert-App/)
+*[https://aleszac.github.io/React-Gif-Expert-App/](https://aleszac.github.io/React-Gif-Expert-App/)
 
 ### APP
 
