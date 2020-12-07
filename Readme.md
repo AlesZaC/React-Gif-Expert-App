@@ -26,11 +26,11 @@ React - Javascript
 
 
 ### VIZUALIZACION
-* [React](https://aleszac.github.io/React-Gif-Expert-App/)
+![React](https://aleszac.github.io/React-Gif-Expert-App/)
 
 ### APP
 
-* [React](https://github.com/AlesZaC/React-Gif-Expert-App/blob/main/public/LPMG.png)
+![React](https://github.com/AlesZaC/React-Gif-Expert-App/blob/main/public/LPMG.png)
 
 
 
