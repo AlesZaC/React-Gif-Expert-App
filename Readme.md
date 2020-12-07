@@ -1,6 +1,6 @@
 
 
-# Aplicacion de Heroes App
+# GIPHY APP
 
 `Pequeña Aplicacion en React Buscador de IMAGENES consumiendo la Api de GIPHY`
 
